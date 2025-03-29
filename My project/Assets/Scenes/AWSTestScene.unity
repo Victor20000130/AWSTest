@@ -442,7 +442,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   text: {fileID: 596589365}
   inputfield: {fileID: 967304922}
-  serverIP: 127.0.0.1
+  serverIP: 3.25.66.125
   serverPort: 12345
   clientPort: 12344
 --- !u!1 &519420028
