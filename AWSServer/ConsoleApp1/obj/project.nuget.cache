@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RoXYuKIXE7k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\qpalz\\Desktop\\AllStudy\\AWSTest\\AWSServer\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qpalz\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.11\\microsoft.netcore.app.host.linux-x64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
